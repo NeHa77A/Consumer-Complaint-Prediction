@@ -2,8 +2,8 @@
 
 [GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)(LICENSE)
 - [Git Logo](https://git-scm.com/)
-- [![Python Logo](https://example.com/python-logo.png)](https://www.python.org/downloads/)
-- [![Docker Logo](https://example.com/docker-logo.png)](https://www.docker.com/get-started)
+- [Python Logo](https://www.python.org/downloads/)
+- [Docker Logo](https://www.docker.com/get-started)
 
 
 
