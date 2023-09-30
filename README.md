@@ -193,6 +193,6 @@ To use GitHub Actions runners for your project, follow these steps:
 - Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request.
 
 ## Contact
-- For questions or feedback, feel free to reach out to the project maintainers at prashantmalge181@gmail.com or create an issue on GitHub.
+- For questions or feedback, feel free to reach out to the project maintainers at nehavishwakarma7777@gmail.com or create an issue on GitHub.
 
 Enjoy streamlining your project setup process with the Project Template Generator Script!
