@@ -35,7 +35,7 @@ The proposed solution for this project involves the development of a robust and 
 2. Navigate to the project directory using the `cd` command:
 
    ```bash
-   cd Consumer-Complaint-Dispute-Prediction
+   cd Consumer-Complaint-Prediction
 
 3. Run the initialization script to set up the project:
 
